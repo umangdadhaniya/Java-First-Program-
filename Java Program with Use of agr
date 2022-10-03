@@ -1,0 +1,11 @@
+import java.lang.*;
+
+class Hello
+{
+
+public static void main(String agr[])
+{
+System.out.println("hello guys");
+System.out.println(agr[0]);	
+}
+}
